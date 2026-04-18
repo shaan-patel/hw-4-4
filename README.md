@@ -17,6 +17,7 @@ I will use this repository to organize my HW 4.3 files, track tasks with GitHub 
 - `hw4_3.pdf` is the final PDF submitted for HW 4.3
 - `images/` stores visuals used in the project if needed
 - `optional_files/` stores any extra supporting materials
+- `plan.md` contains the separate plan document for both the HW 4.3 project and the HW 4.4 repository workflow
 
 ## Authors
 Shaan Patel
