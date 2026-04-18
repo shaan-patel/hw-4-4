@@ -1,28 +1,23 @@
-# Project Title
+# HW 4.4 GitHub Practice
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repository contains my work for HW 4.4 and documents the GitHub workflow used as well as my HW 4.3 project.
 
 ## Overview
-
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
-
-### Interesting Insight (Optional)
-
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+The purpose of this repository is to demonstrate my use of GitHub and version control features throughout the assignment, including repository creation, branching, issues, commits, and pull requests. It also stores the final files from HW 4.3, including the QMD source file and submitted PDF.
 
 ## Data Sources and Acknowledgements
-
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+The files in this repository are based on my HW 4.3 assignment materials and course resources provided in class.
 
 ## Current Plan
-
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+I will use this repository to organize my HW 4.3 files, track tasks with GitHub issues, make edits in a separate branch, and merge changes back into the main branch with a pull request.
 
 ## Repo Structure
-
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+- `README.md` explains the purpose and contents of the repository
+- `hw4_3t.qmd` is the Quarto source file used for HW 4.3
+- `hw4_3.pdf` is the final PDF submitted for HW 4.3
+- `images/` stores visuals used in the project if needed
+- `optional_files/` stores any extra supporting materials
 
 ## Authors
-
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Shaan Patel
+smp7473@psu.edu
